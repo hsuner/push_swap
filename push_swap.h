@@ -40,7 +40,7 @@ char	*get_next_line(int fd);
 //push_swap
 void	ft_push_swap(char **av, int control);
 //quick_sort
-int		ft_qs_first_seperation(t_stack *stack, int len);
+int		ft_qs_first_separation(t_stack *stack, int len);
 int		ft_quicksort_a(t_stack *stack, int len, int count);
 int		ft_quicksort_b(t_stack *stack, int len, int count);
 //rules_a

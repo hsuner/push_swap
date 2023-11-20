@@ -12,7 +12,7 @@
 
 #include "push_swap.h"
 
-int	ft_qs_first_seperation(t_stack *stack, int len)
+int	ft_qs_first_separation(t_stack *stack, int len)
 {
 	int	pivot_a;
 	int	pivot_b;

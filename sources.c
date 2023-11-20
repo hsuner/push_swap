@@ -72,7 +72,7 @@ int	ft_sort(t_stack *stack, int size)
 		else if (size == 3)
 			ft_sort_three(stack);
 		else
-			ft_qs_first_seperation(stack, size);
+			ft_qs_first_separation(stack, size);
 	}
 	return (1);
 }
